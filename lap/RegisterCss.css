@@ -1,0 +1,17 @@
+  h3{
+            background-color: blueviolet;
+        }
+        table,th,td{
+            border:1px solid black;
+            border-collapse: collapse;
+        }
+       th{
+            padding: 10px;
+        }
+
+        .fixed-image {
+            width: 100px; /* Adjust the width as per your requirement */
+            height: auto; /* Automatically adjust height according to aspect ratio */
+            float: left; /* Align the image to the left */
+            margin-right: 20px; /* Optional: Add some margin to the right for spacing */
+        }
