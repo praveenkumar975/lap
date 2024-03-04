@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/Access_Modifiiers/src/com/java/Private_AccessmodifierEx.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.java.Private_AccessmodifierEx"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="Access_Modifiiers"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Access_Modifiiers"/>
+</launchConfiguration>

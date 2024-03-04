@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.java.InncerClasses.java&apos; to &apos;Ic.java&apos;&#x0D;&#x0A;- Original project: &apos;Inner_Classes&apos;&#x0D;&#x0A;- Original element: &apos;com.java.InncerClasses.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.java.Ic.java&apos;" description="Rename compilation unit &apos;InncerClasses.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.java{InncerClasses.java" name="Ic.java" references="false" stamp="1707841173701" version="1.0"/>
+</session>

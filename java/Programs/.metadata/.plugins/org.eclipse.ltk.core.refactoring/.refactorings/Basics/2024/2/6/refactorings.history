@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.java.ConvertionEc&apos; to &apos;ConvertionEx&apos;&#x0D;&#x0A;- Original project: &apos;Basics&apos;&#x0D;&#x0A;- Original element: &apos;com.java.ConvertionEc&apos;&#x0D;&#x0A;- Renamed element: &apos;com.java.ConvertionEx&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ConvertionEc&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.java{ConvertionEc.java[ConvertionEc" matchStrategy="1" name="ConvertionEx" qualified="false" references="true" similarDeclarations="false" stamp="1707285415330" textual="false" version="1.0"/>
+</session>
